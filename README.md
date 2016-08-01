@@ -2,12 +2,12 @@
  
 <p align="center"><img src="http://puu.sh/qlIQC/7b9adb7a67.png" alt="hackemon"></p>
 
-<center><b>"Gotta Hack'em All!"</b></center>
+<p align="center"><b>"Gotta Hack'em All!"</b></p>
 
 <br><br> <h1><b>The Multi-Platform Pokemon-Go farming bot on a whole new human level is here! </b></h1><br><h2><b>"Now</b> you officially have no excuse for exercising anymore, you are free to sit back on your ass and eat your pizza while drinking your fav beer ;)"</h2>
  
  <font size=2px><b>Click on the following image for a youtube video preview.</b><font>
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=F6pjaP6Gtcs" target="_blank"><img src="http://puu.sh/qlLMz/1f98389e8f.png" 
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=F6pjaP6Gtcs" target="_blank"><img src="http://puu.sh/qlOr9/992a8ee568.png" 
 alt="Runs on All Operating Systems including Windows,Linux, Mac and OpenBSD"  border="10" /></a>
 
 <br>
