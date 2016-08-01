@@ -10,8 +10,7 @@
  <br>
  
  <font size=2px><b>Click on the following image for a youtube video preview.</b><font>
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=F6pjaP6Gtcs
-" target="_blank"><img src="http://puu.sh/qlLMz/1f98389e8f.png" 
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=F6pjaP6Gtcs" target="_blank"><img src="http://puu.sh/qlLMz/1f98389e8f.png" 
 alt="Runs on All Operating Systems including Windows,Linux, Mac and OpenBSD"  border="10" /></a>
 
 <br>
