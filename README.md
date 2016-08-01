@@ -3,19 +3,18 @@
 <p align="center"><img src="http://puu.sh/qlIQC/7b9adb7a67.png" alt="hackemon"></p>
 
 <center><b>"Gotta Hack'em All!"</b></center>
- <font face="Lucida Console">
-<br><br> <font color="#5B7876" size="6px"><b>The Multi-Platform <font color="#FFB03B">Pokemon-Go</font> farming bot on a whole new human level is here! </b></font><br><br><font size="5px" color="#91AA9D"><b>"Now</b> you officially have no excuse for exercising anymore, you are free to sit back on your ass and eat your pizza while drinking your fav beer ;)"</font>
- <br>
+
+<br><br> <h1><b>The Multi-Platform Pokemon-Go farming bot on a whole new human level is here! </b></h1><br><h2><b>"Now</b> you officially have no excuse for exercising anymore, you are free to sit back on your ass and eat your pizza while drinking your fav beer ;)"</h2>
+ 
  <font size=2px><b>Click on the following image for a youtube video preview.</b><font>
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=F6pjaP6Gtcs" target="_blank"><img src="http://puu.sh/qlLMz/1f98389e8f.png" 
 alt="Runs on All Operating Systems including Windows,Linux, Mac and OpenBSD"  border="10" /></a>
 
 <br>
 
-<font size="5px" color="91AA9D"><font size="6px" color="405952"> <br> </font><b>Hackémon</b> is designed with a primary intent for it to be very rich in logic, highly customizable, brightly intuitive and of course the most core principle, Undetectability (Ban-Safe) through utilizing human road/path finding under customizable settings with presets.</font>
-<br><br><br><br>
-<b><font color="79BD8F" size="6px">→ List of Current Features:</font></b>
-<font color="91AA9D">
+<h2><b>Hackémon</b> is designed with a primary intent for it to be very rich in logic, highly customizable, brightly intuitive and of course the most core principle, Undetectability (Ban-Safe) through utilizing human road/path finding under customizable settings with presets.</h2>
+<br>
+<b><h1>→ List of Current Features:</h1></b>
 <b>
 <ul>
 <li>Intuitive Easy-to-use GUI which displays useful realtime stats.</li>
@@ -32,11 +31,8 @@ alt="Runs on All Operating Systems including Windows,Linux, Mac and OpenBSD"  bo
 <li>Supports only PTC on this first release. </li>
 </ul>
 </b>
-</font>
- 
-<br>
-<b><font color="E74C3C" size="6px">→ List of Next Updates Features:</font></b>
-<font color="91AA9D">
+
+<b><h1>→ List of Next Updates Features:</h1></b>
 <ul>
 <b>
 <li>Add Google Accounts Support.</li>
@@ -48,12 +44,11 @@ alt="Runs on All Operating Systems including Windows,Linux, Mac and OpenBSD"  bo
 <li>Multi Language Support</li>
 </b>
 </ul>
-</font>
+
 
 <br><br>
-<b><font color="" size="6px">→ Installation:</font></b>
-<font color=91AA9D size ="4px">
+<b><h1>→ Installation:</h1></b>
 All you only need to have in-case you didn't is <b><a href="http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html">Java 8</a></b> to be able to run this wonderful bot on any operating system of your liking, extract the
 zipped files to a destination, run & enjoy!.</font>
 
-</font>
+ 
