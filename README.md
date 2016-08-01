@@ -1,4 +1,5 @@
- <font face="Lucida Console">
+<html>
+<font face="Lucida Console">
 <center><img src="http://puu.sh/qlIQC/7b9adb7a67.png" alt="hackemon"></center>
 
 <center><b>"Gotta Hack'em All!"</b></center>
@@ -59,4 +60,5 @@ alt="Runs on All Operating Systems including Windows,Linux, Mac and OpenBSD"  bo
 <p>All you only need to have in-case you didn't is <b><a href="http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html">Java 8</a></b> to be able to run this wonderful bot on any operating system of your liking, extract the
 zipped files to a destination, run & enjoy!.</font>
 
-</p>
+
+</html>
