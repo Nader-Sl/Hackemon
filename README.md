@@ -17,7 +17,7 @@ alt="Runs on All Operating Systems including Windows,Linux, Mac and OpenBSD"  bo
 <b><h1>→ List of Current Features:</h1></b>
 <b>
 <ul>
-<li>Multiple All operating systems support : Windows,Linux,Mac,OpenBSD, etc.. </li>
+<li>Runs on all PC Operating Systems : Windows,Linux,Mac,OpenBSD, etc.. </li>
 <li>Intuitive Easy-to-use GUI which displays useful realtime stats.</li>
 <li>Realtime Visualized Advanced Human Road Walking/Path finding with custom speeds and presets.</li>
 <li>Ability for a rich customization & Humanization through a wide variety of settings. </li>
