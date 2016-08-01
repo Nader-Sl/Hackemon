@@ -53,13 +53,13 @@ zipped files to a destination, run & enjoy!.
 <br>
 <b><h1>→ Tips:</h1></b>
 <ul>
-<br>
 <li>Make sure you you set the longitude and latitude locations under the settings -> general tab, otherwise you might hard teleport and get some soft ban for a short period of time.</li>
 <li>Minimize the GUI when you are not viewing the logs and progress because it when not minimized it shows the google map live location which is limited to 25,000 images per day for free users, so better save it, and incase <br>
 its already too late you can run it on a VPN like "Private Internet Access" or a free one to be able to see the map again.</li>
 
 </ul>
-
+<br>
+Since this took and will take a lot of my time (many hours a day) to make it at tops, feel free to donate the amount you want, and if this goes paid one day, you will get it free ^.^
 [![](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)]
 (https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=U7BRDDXTZ8UHE)
 
