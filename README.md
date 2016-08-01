@@ -1,8 +1,9 @@
 
- <font face="Lucida Console">
+ 
 <p align="center"><img src="http://puu.sh/qlIQC/7b9adb7a67.png" alt="hackemon"></p>
 
 <center><b>"Gotta Hack'em All!"</b></center>
+ <font face="Lucida Console">
 <br><br> <font color="#5B7876" size="6px"><b>The Multi-Platform <font color="#FFB03B">Pokemon-Go</font> farming bot on a whole new human level is here! </b></font><br><br><font size="5px" color="#91AA9D"><b>"Now</b> you officially have no excuse for exercising anymore, you are free to sit back on your ass and eat your pizza while drinking your fav beer ;)"</font>
  <br>
  <font size=2px><b>Click on the following image for a youtube video preview.</b><font>
