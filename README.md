@@ -59,7 +59,8 @@ its already too late you can run it on a VPN like "Private Internet Access" or a
 
 </ul>
 <br>
-Since this took and will take a lot of my time (many hours a day) to make it at tops, feel free to donate the amount you want, and if this goes paid one day, you will get it free ^.^
+<p><b>Since this took and will take a lot of my time (many hours a day) to make it at tops, feel free to donate the amount you want, and if this goes paid one day, you will get it free ^.^</b></p>
+
 [![](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)]
 (https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=U7BRDDXTZ8UHE)
 
