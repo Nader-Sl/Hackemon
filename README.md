@@ -53,19 +53,19 @@ zipped files to a destination, run & enjoy!.
 <br>
 <b><h1>→ Tips:</h1></b>
 <ul>
-<b>
+<b><br>
 <li>Make sure you you set the longitude and latitude locations under the settings -> general tab, otherwise you might hard teleport and get some soft ban for a short period of time.</li>
 <li>Minimize the GUI when you are not viewing the logs and progress because it when not minimized it shows the google map live location which is limited to 25,000 images per day for free users, so better save it, and incase <br>
 its already too late you can run it on a VPN like "Private Internet Access" or a free one to be able to see the map again.</li>
 </b>
 </ul>
 
-
+<div>
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
 <input type="hidden" name="cmd" value="_s-xclick">
 <input type="hidden" name="hosted_button_id" value="U7BRDDXTZ8UHE">
 <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
 <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
 </form>
-
+</div>
 	
