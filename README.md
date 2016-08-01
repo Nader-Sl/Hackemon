@@ -1,6 +1,6 @@
 
 <font face="Lucida Console">
-<center><img src="http://puu.sh/qlIQC/7b9adb7a67.png" alt="hackemon"></center>
+<div style="text-align:center"><img src="http://puu.sh/qlIQC/7b9adb7a67.png" alt="hackemon"></div>
 
 <center><b>"Gotta Hack'em All!"</b></center>
 
