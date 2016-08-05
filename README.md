@@ -6,7 +6,7 @@
 
 <br><br> <h1><b>The Multi-Platform Pokemon-Go farming bot on a whole new human level is here! </b></h1><br><h2><b>"Now</b> you officially have no excuse for exercising anymore, you are free to sit back on your ass and eat your pizza while drinking your fav beer ;)"</h2>
  
- [→Click here to join disucssion & News on Discord](http://google.com)
+ [→Click here to join disucssion & News on Discord](https://discord.gg/mMhuG6q)
  <br><br><font size=2px><b>Click on the following image for the upcoming version's youtube video preview.</b><font>
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=Vv3-Gdvm9xU" target="_blank"><img src="http://puu.sh/qquj1/2d85618c28.jpg" 
 alt="Runs on All Operating Systems including Windows,Linux, Mac and OpenBSD"  border="10" /></a>
