@@ -5,7 +5,7 @@ import static com.mtsystems.coot.String8.nnc;
 import com.mtsystems.coot.IntContainer;
 import com.mtsystems.coot.String8;
 
-public class Cc41396e26 {
+public class SigEncryption {
 	private static byte rotl8_U(byte x_U, int n) {
 		return (byte)((Byte.toUnsignedInt(x_U) << n | Byte.toUnsignedInt(x_U) >> 8 - n) & 255);
 	}
