@@ -6,6 +6,8 @@
 
 <br><br> <h1><b>The Multi-Platform Pokemon-Go farming bot on a whole new human level is here! </b></h1><br><h2><b>"Now</b> you officially have no excuse for exercising anymore, you are free to sit back on your ass and eat your pizza while drinking your fav beer ;)"</h2>
  
+ *There are many reasons behind why this bot is not open source i'll be explaining later, but anyhow this github is a temporary repos while site underconstruction is done.
+ 
  [→Click here to join disucssion & News on Discord](https://discord.gg/mMhuG6q)
  <br><br><font size=2px><b>Click on the following image for the Current version's youtube video preview.</b><font>
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=Vv3-Gdvm9xU" target="_blank"><img src="http://puu.sh/qw13i/3e39a74a92.jpg" 
