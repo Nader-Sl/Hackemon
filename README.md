@@ -1,4 +1,4 @@
-
+﻿
  
 <p align="center"><img src="http://puu.sh/qlIQC/7b9adb7a67.png" alt="hackemon"></p>
 
@@ -24,6 +24,7 @@ alt="Runs on All Operating Systems including Windows,Linux, Mac and OpenBSD"  bo
 <b>
 <ul>
 <li>Runs on all PC Operating Systems : Windows,Linux,Mac,OpenBSD, etc.. </li>
+<li>Supports Google & PTC Accounts</li>
 <li>Intuitive Easy-to-use GUI which displays useful realtime stats.</li>
 <li>Realtime Visualized Advanced Human Road Walking/Path finding with custom speeds and presets.</li>
 <li>Ability for a rich customization & Humanization through a wide variety of settings. </li>
@@ -32,6 +33,7 @@ alt="Runs on All Operating Systems including Windows,Linux, Mac and OpenBSD"  bo
 <li>Utilitzes the best matching ball to catch the corresponding pokemon.</li>
 <li>Consumes Raspberries when needed to gain a higher chance to catch a pokemon.</li>
 <li>Transfers the pokemons to the professor and gain candy.</li>
+<li>Auto collects rewards on level ups.</li>
 <li>Ban-safe</li>
 <li>Auto-Updater</li>
 <li>Easy Account Switch</li>
@@ -42,7 +44,6 @@ alt="Runs on All Operating Systems including Windows,Linux, Mac and OpenBSD"  bo
 <b><h1>→ List of Next Updates Features:</h1></b>
 <ul>
 <b>
-<li>Add Google Accounts Support.</li>
 <li>Pokemon sniping.</li>
 <li>Add pokemon Evolving.</li>
 <li>Add Items Recycling. </li>
