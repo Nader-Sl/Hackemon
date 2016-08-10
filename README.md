@@ -59,7 +59,7 @@ All you only need to have in-case you didn't is <b><a href="http://www.oracle.co
 zipped files to a destination, run & enjoy!.
 <br><br>
   <b>  Linux Installation Tips:</b>
-  <p>  *Make sure to use Oracle JDK 8 instead of OpenJDK 8*</p>
+*Make sure to use Oracle JDK 8 instead of OpenJDK 8*
     
 </p>
 
@@ -67,8 +67,7 @@ zipped files to a destination, run & enjoy!.
 <b><h1>→ Tips:</h1></b>
 <ul>
 <li>Make sure you you set the longitude and latitude locations under the settings -> general tab, otherwise you might hard teleport and get some soft ban for a short period of time.</li>
-<li>Minimize the GUI when you are not viewing the logs and progress because it when not minimized it shows the google map live location which is limited to 25,000 images per day for free users, so better save it, and incase <br>
-its already too late you can run it on a VPN like "Private Internet Access" or a free one to be able to see the map again.</li>
+<li>Make sure you set decent delay times between various tasks under the settings Humanization tab to avoid any possible softbans.</li>
 
 </ul>
 <br>
