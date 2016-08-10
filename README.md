@@ -57,9 +57,9 @@ alt="Runs on All Operating Systems including Windows,Linux, Mac and OpenBSD"  bo
 <p>
 All you only need to have in-case you didn't is <b><a href="http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html">Java 8</a></b> to be able to run this wonderful bot on any operating system of your liking, extract the
 zipped files to a destination, run & enjoy!.
-
-  <b>Linux Installation Tips:</b>
-    *Make sure to use Oracle JDK 8 instead of OpenJDK 8*
+<br><br>
+  <b>  Linux Installation Tips:</b>
+  <p>  *Make sure to use Oracle JDK 8 instead of OpenJDK 8*</p>
     
 </p>
 
