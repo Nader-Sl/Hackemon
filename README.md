@@ -6,6 +6,8 @@
 
 <br><br> <h1><b>The Multi-Platform Pokemon-Go farming bot on a whole new human level is here! </b></h1><br><h2><b>"Now</b> you officially have no excuse for exercising anymore, you are free to sit back on your ass and eat your pizza while drinking your fav beer ;)"</h2>
  
+ *There are many reasons behind why this bot is not open source i'll be explaining later, but anyhow this github is a temporary repos while site underconstruction is done.
+ 
  [→Click here to join disucssion & News on Discord](https://discord.gg/mMhuG6q)
  <br><br><font size=2px><b>Click on the following image for the Current version's youtube video preview.</b><font>
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=Vv3-Gdvm9xU" target="_blank"><img src="http://puu.sh/qw13i/3e39a74a92.jpg" 
@@ -52,15 +54,20 @@ alt="Runs on All Operating Systems including Windows,Linux, Mac and OpenBSD"  bo
 
 <br>
 <b><h1>→ Installation:</h1></b>
+<p>
 All you only need to have in-case you didn't is <b><a href="http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html">Java 8</a></b> to be able to run this wonderful bot on any operating system of your liking, extract the
 zipped files to a destination, run & enjoy!.
+<br><br>
+  <b>  Linux Installation Tips:</b>
+*Make sure to use Oracle JDK 8 instead of OpenJDK 8*
+    
+</p>
 
 <br>
 <b><h1>→ Tips:</h1></b>
 <ul>
 <li>Make sure you you set the longitude and latitude locations under the settings -> general tab, otherwise you might hard teleport and get some soft ban for a short period of time.</li>
-<li>Minimize the GUI when you are not viewing the logs and progress because it when not minimized it shows the google map live location which is limited to 25,000 images per day for free users, so better save it, and incase <br>
-its already too late you can run it on a VPN like "Private Internet Access" or a free one to be able to see the map again.</li>
+<li>Make sure you set decent delay times between various tasks under the settings Humanization tab to avoid any possible softbans.</li>
 
 </ul>
 <br>
