@@ -41,6 +41,18 @@ alt="Runs on All Operating Systems including Windows,Linux, Mac and OpenBSD"  bo
 </ul>
 </b>
 
+<b><h1>What's new in version 1.4 ?</h1></b>
+
+<ul>
+      <li><b> Rare Pokemon Sniping exploit is now in the Settings -> General tab, you can check/uncheck it, assign minum pokeballs required to auto snipe and finally a delay you define between auto sniping (in seconds)</b></li>
+                <li> Added a user input for manual pokemon sniping, you just have to insert coordinates and that's it! </li>
+                <li> Added a ROAD_FLY option so it can walk straight-lines towards pokestops (faster)</li>
+                  <li> Now shows Pokeballs left in stats panel.</li>
+</ul>
+<p align="center"><img src="http://puu.sh/qzz4Z/59b340e012.jpg" alt="hackemon"></p>
+
+
+
 <br>
 <b><h1>→ Installation:</h1></b>
 <p>
