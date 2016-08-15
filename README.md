@@ -41,7 +41,19 @@ alt="Runs on All Operating Systems including Windows,Linux, Mac and OpenBSD"  bo
 </ul>
 </b>
 
-<b><h1>What's new in version 1.4 ?</h1></b>
+<b><h1>What's new in version 1.5 ?</h1></b>
+
+<ul>
+   <li><b>Introduced a Live Interactive & Verbose Pokemon Inventory!, Transfere & Evolve multiple selected pokemons at once!.</b></li>
+                <li><b>Now you can easily assign the minimum amount of items to keep from automatic recycling, and re-edit it in an easy intuitive way.  </b></li>
+                <li> <b>Fixed a memory leak bug which eats out memory.</b></li>
+               <li><b>Automatic Sniping is disabled until a more stable API is found or a private hackemon API is developed, until then use the manual poke sniper on the map view page which is guaranteed to snipe valid pokemons, i highly recommend you use https://pokezz.com (its the only site i saw that actually has 100% validated pokemons)</li></b>
+               <li> <b>Now the client verifies with randomized,customized and validated hardware information & sensor data for anti-bot checks.</b></li>          
+                <li> <b>Roaming range ensured to work & Pokestops Map update view works better now</b></li>
+           
+</ul>
+
+><h1>What's new in version 1.4 ?</h1>
 
 <ul>
       <li> Rare Pokemon Sniping exploit is now in the Settings -> General tab, you can check/uncheck it, assign minum pokeballs required to auto snipe and finally a delay you define between auto sniping (in seconds)</li>
