@@ -50,18 +50,13 @@ alt="Runs on All Operating Systems including Windows,Linux, Mac and OpenBSD"  bo
                <li><b>Automatic Sniping is disabled until a more stable API is found or a private hackemon API is developed, until then use the manual poke sniper on the map view page which is guaranteed to snipe valid pokemons, i highly recommend you use https://pokezz.com (its the only site i saw that actually has 100% validated pokemons)</li></b>
                <li> <b>Now the client verifies with randomized,customized and validated hardware information & sensor data for anti-bot checks.</b></li>          
                 <li> <b>Roaming range ensured to work & Pokestops Map update view works better now</b></li>
-           
+			
 </ul>
 
-><h1>What's new in version 1.4 ?</h1>
+<p align="center"><img src="http://puu.sh/qBPAE/925a599b90.png" alt="hackemon"></p>
+<br>
+<p align="center"><img src="http://puu.sh/qBPHR/abdb829935.png" alt="hackemon"></p>
 
-<ul>
-      <li> Rare Pokemon Sniping exploit is now in the Settings -> General tab, you can check/uncheck it, assign minum pokeballs required to auto snipe and finally a delay you define between auto sniping (in seconds)</li>
-                <li> Added a user input for manual pokemon sniping, you just have to insert coordinates and that's it! </li>
-                <li> Added a ROAD_FLY option so it can walk straight-lines towards pokestops (faster)</li>
-                  <li> Now shows Pokeballs left in stats panel.</li>
-</ul>
-<p align="center"><img src="http://puu.sh/qzz4Z/59b340e012.jpg" alt="hackemon"></p>
 
 
 
