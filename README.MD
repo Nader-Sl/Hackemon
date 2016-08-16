@@ -44,6 +44,18 @@ alt="Runs on All Operating Systems including Windows,Linux, Mac and OpenBSD"  bo
 <b><h1>What's new in version 1.5 ?</h1></b>
 
 <ul>
+            <li><b>Added Incense Item Usage & Incense Pokemons Encountering/Catching</li> 
+               <li><b>Human Device Information now saves per game profile, and you can generate one or enter your own device details if you will, edit manually 
+               only when you are fully logged in, so it saves it for your currently loaded profile.<b></li>
+               <li>Fixed saving some settings that weren't being saved </li>
+			
+</ul>
+
+    <br>
+
+<b><h1>What's new in version 1.5 ?</h1></b>
+
+<ul>
    <li><b>Introduced a Live Interactive & Verbose Pokemon Inventory!, Transfere & Evolve multiple selected pokemons at once!.</b></li>
                 <li><b>Now you can easily assign the minimum amount of items to keep from automatic recycling, and re-edit it in an easy intuitive way.  </b></li>
                 <li> <b>Fixed a memory leak bug which eats out memory.</b></li>
