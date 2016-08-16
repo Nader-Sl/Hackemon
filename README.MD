@@ -41,7 +41,7 @@ alt="Runs on All Operating Systems including Windows,Linux, Mac and OpenBSD"  bo
 </ul>
 </b>
 
-<b><h1>What's new in version 1.5 ?</h1></b>
+<b><h1>What's new in version 1.51 ?</h1></b>
 
 <ul>
             <li><b>Added Incense Item Usage & Incense Pokemons Encountering/Catching</li> 
@@ -51,7 +51,7 @@ alt="Runs on All Operating Systems including Windows,Linux, Mac and OpenBSD"  bo
 			
 </ul>
 
-    <br>
+   
 
 <b><h1>What's new in version 1.5 ?</h1></b>
 
