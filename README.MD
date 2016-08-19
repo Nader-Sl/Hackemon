@@ -13,7 +13,6 @@
 <a href="https://www.youtube.com/watch?v=sliGm7nb0Ic&feature=youtu.be" target="_blank"><img src="http://puu.sh/qz8W8/349e3b4816.jpg" 
 alt="Runs on All Operating Systems including Windows,Linux, Mac and OpenBSD"  border="10" /></a>
 
-<p align="center"><img src="http://puu.sh/qDJbS/9d1b4a9fdb.png" alt="settings"></p>
 <p align="center"><img src="http://puu.sh/qH7Rm/08d37b48f6.png" alt="settings"></p>
 
 
