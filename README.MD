@@ -14,7 +14,7 @@
 alt="Runs on All Operating Systems including Windows,Linux, Mac and OpenBSD"  border="10" /></a>
 
 <p align="center"><img src="http://puu.sh/qDJbS/9d1b4a9fdb.png" alt="settings"></p>
-<p align="center"><img src="http://puu.sh/qw1hA/9385f59876.png" alt="settings"></p>
+<p align="center"><img src="http://puu.sh/qH7Rm/08d37b48f6.png" alt="settings"></p>
 
 
 <h2><b>Hackémon</b> is designed with a primary intent for it to be very rich in logic, highly customizable, brightly intuitive and of course the most core principle, Undetectability (Ban-Safe) through utilizing human road/path finding under customizable settings with presets.</h2>
