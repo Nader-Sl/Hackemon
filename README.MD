@@ -41,6 +41,24 @@ alt="Runs on All Operating Systems including Windows,Linux, Mac and OpenBSD"  bo
 </ul>
 </b>
 
+
+<b><h1>What's new in version 1.6 ?</h1></b>
+
+<ul>
+      <li><b>Added Ball Curve randomization factor as an Anti-ban, which will result in random XP gained within an accuracy range you define!</b></li>
+      <p align="center"><img src="http://puu.sh/qGJjM/fc98bf42f6.png" alt="hackemon"></p>
+               <li><b>Added Auto Egg-Incubation, incubates multiple eggs using an incubator per each all at once!</b></li>
+                <p align="center"><img src="http://puu.sh/qGVyo/a22e039ef6.png" alt="hackemon"></p>
+               <li><b>Added Manual Power-up feature to the Interactive pokemons tab!</b></li>
+                  <p align="center"><img src="http://puu.sh/qH4ac/eb2b65ef8f.png alt="hackemon"></p>
+               <li><b>Added Auto-Evolving feature with options to include, set min CP/IV and min to keep. </b></li>
+               <li><b>Now the bot saves the last location per player profile to load it next time and start from there.</b></li>
+               <li><b>Fixed the bug in which stats don't show.</b></li>
+ </ul>
+            <br>
+             
+           
+            <br><br>
 <b><h1>What's new in version 1.51 ?</h1></b>
 
 <ul>
@@ -54,19 +72,6 @@ alt="Runs on All Operating Systems including Windows,Linux, Mac and OpenBSD"  bo
 			
 </ul>
 
-   
-
-<b><h1>What's new in version 1.5 ?</h1></b>
-
-<ul>
-   <li><b>Introduced a Live Interactive & Verbose Pokemon Inventory!, Transfere & Evolve multiple selected pokemons at once!.</b></li>
-                <li><b>Now you can easily assign the minimum amount of items to keep from automatic recycling, and re-edit it in an easy intuitive way.  </b></li>
-                <li> <b>Fixed a memory leak bug which eats out memory.</b></li>
-               <li><b>Automatic Sniping is disabled until a more stable API is found or a private hackemon API is developed, until then use the manual poke sniper on the map view page which is guaranteed to snipe valid pokemons, i highly recommend you use https://pokezz.com (its the only site i saw that actually has 100% validated pokemons)</li></b>
-               <li> <b>Now the client verifies with randomized,customized and validated hardware information & sensor data for anti-bot checks.</b></li>          
-                <li> <b>Roaming range ensured to work & Pokestops Map update view works better now</b></li>
-			
-</ul>
 
 <p align="center"><img src="http://puu.sh/qBPAE/925a599b90.png" alt="hackemon"></p>
 <br>
