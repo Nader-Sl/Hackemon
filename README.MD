@@ -51,7 +51,7 @@ alt="Runs on All Operating Systems including Windows,Linux, Mac and OpenBSD"  bo
                <li><b>Added Manual Power-up feature to the Interactive pokemons tab!</b></li>
                   <p align="center"><img src="http://puu.sh/qH4ac/eb2b65ef8f.png" alt="hackemon"></p>
                <li><b>Added Auto-Evolving feature with options to include, set min CP/IV and min to keep. </b></li>
-               p align="center"><img src="http://puu.sh/qGYK6/a28caa3a30.png" alt="hackemon"></p>
+               <p align="center"><img src="http://puu.sh/qGYK6/a28caa3a30.png" alt="hackemon"></p>
                
                <li><b>Now the bot saves the last location per player profile to load it next time and start from there.</b></li>
                <li><b>Fixed the bug in which stats don't show.</b></li>
