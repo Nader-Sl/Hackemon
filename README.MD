@@ -13,7 +13,7 @@
 <a href="https://www.youtube.com/watch?v=sliGm7nb0Ic&feature=youtu.be" target="_blank"><img src="http://puu.sh/qz8W8/349e3b4816.jpg" 
 alt="Runs on All Operating Systems including Windows,Linux, Mac and OpenBSD"  border="10" /></a>
 
-<p align="center"><img src="http://puu.sh/qw1bo/92320bdb8f.png" alt="settings"></p>
+<p align="center"><img src="http://puu.sh/qDJbS/9d1b4a9fdb.png" alt="settings"></p>
 <p align="center"><img src="http://puu.sh/qw1hA/9385f59876.png" alt="settings"></p>
 
 
@@ -41,17 +41,20 @@ alt="Runs on All Operating Systems including Windows,Linux, Mac and OpenBSD"  bo
 </ul>
 </b>
 
-<b><h1>What's new in version 1.5 ?</h1></b>
+<b><h1>What's new in version 1.51 ?</h1></b>
 
 <ul>
             <li><b>Added Incense Item Usage & Incense Pokemons Encountering/Catching</li> 
-               <li><b>Human Device Information now saves per game profile, and you can generate one or enter your own device details if you will, edit manually 
-               only when you are fully logged in, so it saves it for your currently loaded profile.<b></li>
+               <li>Human Device Information now saves per game profile, and you can generate one or enter your own device details if you will, edit manually only when you are fully logged in, so it saves it for your currently loaded profile.<b>
+               <p align="center"><img src="http://puu.sh/qDJbS/9d1b4a9fdb.png" alt="settings"></p>
+               </li>
+               <br>
+               
                <li>Fixed saving some settings that weren't being saved </li>
 			
 </ul>
 
-    <br>
+   
 
 <b><h1>What's new in version 1.5 ?</h1></b>
 
