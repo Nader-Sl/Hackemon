@@ -47,9 +47,8 @@ alt="Runs on All Operating Systems including Windows,Linux, Mac and OpenBSD"  bo
 
 <ul>
       <li><b> Updated API to fill sensor info with data within a valid range randomized on each request along with other signature fields.</b></li>
-               <li><bAdded selective pokemon ball usage based on CP	</b></li>
-              
-               <li><b>AAdded a button to delete last saved location to be pressed before you attempt to set a new far origin.</b></li>
+               <li><bAdded selective pokemon ball usage based on CP</b></li>
+               <li><b>Added a button to delete last saved location to be pressed before you attempt to set a new far origin.</b></li>
                 
                <li><b>Fixed stats fluctuation bug (jumping from 0 to x back and forth)</b></li>
                
