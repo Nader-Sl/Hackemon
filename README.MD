@@ -10,6 +10,7 @@
  *There are many reasons behind why this bot is not open source i'll be explaining later.
  
  [→Click here Check out the official Hackemon site](https://www.hackemon.io)
+ <br>
  [→Click here to join disucssion & News on Discord](https://discord.gg/mMhuG6q)
  <br><br><font size=2px><b>Click on the following image for the Current version's youtube video preview.</b><font>
 <a href="https://www.youtube.com/watch?v=sliGm7nb0Ic&feature=youtu.be" target="_blank"><img src="http://puu.sh/qz8W8/349e3b4816.jpg" 
