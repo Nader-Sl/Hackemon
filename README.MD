@@ -43,7 +43,22 @@ alt="Runs on All Operating Systems including Windows,Linux, Mac and OpenBSD"  bo
 </ul>
 </b>
 
+<b><h1>What's new in version 1.61 ?</h1></b>
 
+<ul>
+      <li><b> Updated API to fill sensor info with data within a valid range randomized on each request along with other signature fields.</b></li>
+               <li><bAdded selective pokemon ball usage based on CP	</b></li>
+              
+               <li><b>AAdded a button to delete last saved location to be pressed before you attempt to set a new far origin.</b></li>
+                
+               <li><b>Fixed stats fluctuation bug (jumping from 0 to x back and forth)</b></li>
+               
+               
+               <li><b>Brought back the Pokemons to capture exclude list which disappeared by accident on last update :'D..</b></li>
+               <li><b>Shall now notify you that you are likely IP banned (maybe temp) when you start re-loggin like crazy.
+</b></li>
+ </ul>
+            <br>
 <b><h1>What's new in version 1.6 ?</h1></b>
 
 <ul>
