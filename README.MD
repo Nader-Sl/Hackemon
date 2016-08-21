@@ -43,7 +43,7 @@ alt="Runs on All Operating Systems including Windows,Linux, Mac and OpenBSD"  bo
 </ul>
 </b>
 
-<b><h1>What's new in version 1.61 ?</h1></b>
+ <h1>Patch 1.61 ?</h1> 
 
 <ul>
       <li><b> Updated API to fill sensor info with data within a valid range randomized on each request along with other signature fields.</b></li>
@@ -55,7 +55,7 @@ alt="Runs on All Operating Systems including Windows,Linux, Mac and OpenBSD"  bo
                
                
                <li><b>Brought back the Pokemons to capture exclude list which disappeared by accident on last update :'D..</b></li>
-               <li><b>Shall now notify you that you are likely IP banned (maybe temp) when you start re-loggin like crazy.
+               <li><b>Shall now notify you that you are likely IP banned (maybe temp) when you start re-loggin like crazy.</b></li>
 </b></li>
  </ul>
             <br>
