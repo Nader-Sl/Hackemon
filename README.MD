@@ -7,7 +7,7 @@
 
 <br><br> <h1><b>The Multi-Platform Pokemon-Go farming bot on a whole new human level is here! </b></h1><br><h2><b>"Now</b> you officially have no excuse for exercising anymore, you are free to sit back on your ass and eat your pizza while drinking your fav beer ;)"</h2>
  
- *There are many reasons behind why this bot is not open source i'll be explaining later.
+ *PS: If Issues has been closed on github, please visit the forums for that:
  
  [→Click here Check out the official Hackemon Forums](http://www.hackemon.io)
  <br>
