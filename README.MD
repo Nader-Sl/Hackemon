@@ -3,7 +3,7 @@
 <p align="center"><img src="http://puu.sh/qlIQC/7b9adb7a67.png" alt="hackemon"></p>
 
 <p align="center"><b>"Gotta Hack'em All!"</b></p>
-<p align="center"><font size="18px">www.hackemon.io</font></p>
+<p align="center"><h3>www.hackemon.io</h3></p>
 
 <br><br> <h1><b>The Multi-Platform Pokemon-Go farming bot on a whole new human level is here! </b></h1><br><h2><b>"Now</b> you officially have no excuse for exercising anymore, you are free to sit back on your ass and eat your pizza while drinking your fav beer ;)"</h2>
  
