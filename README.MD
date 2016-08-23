@@ -12,6 +12,7 @@
  [→Click here Check out the official Hackemon Forums](http://www.hackemon.io)
  <br>
  [→Click here to join disucssion & News on Discord](https://discord.gg/mMhuG6q)
+ <p align="center"><img src="http://puu.sh/qLnfp/4ae47dd03f.jpg" alt="hackemon"></p>
  <br><br><font size=2px><b>Click on the following image for the Current version's youtube video preview.</b><font>
 <a href="https://www.youtube.com/watch?v=sliGm7nb0Ic&feature=youtu.be" target="_blank"><img src="http://puu.sh/qz8W8/349e3b4816.jpg" 
 alt="Runs on All Operating Systems including Windows,Linux, Mac and OpenBSD"  border="10" /></a>
