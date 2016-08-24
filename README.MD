@@ -123,6 +123,6 @@ zipped files to a destination, run & enjoy!.
 (https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=U7BRDDXTZ8UHE)
 
 <h1>Legal</h1>
-This code is in no way affiliated with, authorized, maintained, sponsored or endorsed by Niantic, The Pokémon Company, Nintendo or any of its affiliates or subsidiaries. This is an independent and unofficial API for educational use ONLY. Use at your own risk.
+This code is in no way affiliated with, authorized, maintained, sponsored or endorsed by Niantic, The Pokémon Company, Nintendo or any of its affiliates or subsidiaries. This is an independent and unofficial Bot for educational use ONLY. Use at your own risk.
 
 	
