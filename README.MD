@@ -48,7 +48,7 @@ alt="Runs on All Operating Systems including Windows,Linux, Mac and OpenBSD"  bo
 
 <ul>
   <li><b>Added HTTP/Socket Proxy Support.</b></li>
-   <p align="center"><img src=" http://puu.sh/qOg1T/0ddf1c54da.png" alt="hackemon"></p>
+   <p align="center"><img src="http://puu.sh/qOgnC/9d2c8f1a35.png" alt="hackemon"></p>
   
   <li><b>Added a Theme changer (23 skins to select from)</b></li>
   <p align="center"><img src="http://puu.sh/qOfYu/ed2f7671d4.png" alt="hackemon"></p>
