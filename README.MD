@@ -45,7 +45,7 @@ alt="Runs on All Operating Systems including Windows,Linux, Mac and OpenBSD"  bo
 </b>
 
  <h1>Patch 1.62 </h1> 
-
+<b><i>*Note: Now Transfering Pokemons doesn't concern duplicates only, if you set duplicates to keep to 0 all pokemons are going to be transfered (the ones that are under the max CP assigned)</i></b>
 <ul>
   <li><b>Added HTTP/Socket Proxy Support.</b></li>
    <p align="center"><img src="http://puu.sh/qOgnC/9d2c8f1a35.png" alt="hackemon"></p>
@@ -61,7 +61,7 @@ alt="Runs on All Operating Systems including Windows,Linux, Mac and OpenBSD"  bo
   <li><b>Exchanged pokemons sprites with much better and smoother ones.</b></li>
   <p align="center"><img src="http://puu.sh/qOfpT/df8550884a.png" alt="hackemon"></p>
   
-  <li><b>Fixed the bug with transfer and evolve ommiting the duplicates to keep.</b></li>
+  <li><b>Fixed the bug with transfer and evolve ommiting the duplicates to keep</b></li>
   <li><b>Fixed an issue with GUI that wasn't saving the range field</b></li>
   <li><b>Fixed an bug with GUI that was generated random device ID on Relog.</b></li>
  </ul>
