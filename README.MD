@@ -67,12 +67,6 @@ alt="Runs on All Operating Systems including Windows,Linux, Mac and OpenBSD"  bo
  </ul>
  
 
-<p align="center"><img src="http://puu.sh/qBPAE/925a599b90.png" alt="hackemon"></p>
-<br>
-<p align="center"><img src="http://puu.sh/qBPHR/abdb829935.png" alt="hackemon"></p>
-
-
-
 
 <br>
 <b><h1>→ Installation:</h1></b>
