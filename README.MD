@@ -44,52 +44,28 @@ alt="Runs on All Operating Systems including Windows,Linux, Mac and OpenBSD"  bo
 </ul>
 </b>
 
- <h1>Patch 1.61 </h1> 
+ <h1>Patch 1.62 </h1> 
 
 <ul>
-      <li><b> Updated API to fill sensor info with data within a valid range randomized on each request along with other signature fields.</b></li>
-      <li><b>Added selective pokemon ball usage based on CP</b></li>
-   <li><b>Added a button to delete last saved location to be pressed before you attempt to set a new far origin.</b></li>
-   <li><b>Fixed stats fluctuation bug (jumping from 0 to x back and forth)</b></li>
-               
-               
-               <li><b>Brought back the Pokemons to capture exclude list which disappeared by accident on last update :'D..</b></li>
-               <li><b>Shall now notify you that you are likely IP banned (maybe temp) when you start re-loggin like crazy.</b></li>
-</b></li>
+  <li><b>Added HTTP/Socket Proxy Support.</b></li>
+   <p align="center"><img src=" http://puu.sh/qOg1T/0ddf1c54da.png" alt="hackemon"></p>
+  
+  <li><b>Added a Theme changer (23 skins to select from)</b></li>
+  <p align="center"><img src="http://puu.sh/qOfYu/ed2f7671d4.png" alt="hackemon"></p>
+  <li><b>Added colored text for the out put log (1 color per task).</b></li>
+  <p align="center"><img src="http://puu.sh/qOdUf/df556e2db0.png" alt="hackemon"></p>
+  
+  <li><b>Revamped the stats panel, its now bigger so it can show a lot of stats and you can hide/show it by pressing the stats button, it now shows time ran and XP/H averaging.</b></li>
+  <p align="center"><img src="http://puu.sh/qOgfA/4f9bc5a15f.jpg" alt="hackemon"></p>
+   
+  <li><b>Exchanged pokemons sprites with much better and smoother ones.</b></li>
+  <p align="center"><img src="http://puu.sh/qOfpT/df8550884a.png" alt="hackemon"></p>
+  
+  <li><b>Fixed the bug with transfer and evolve ommiting the duplicates to keep.</b></li>
+  <li><b>Fixed an issue with GUI that wasn't saving the range field</b></li>
+  <li><b>Fixed an bug with GUI that was generated random device ID on Relog.</b></li>
  </ul>
-            <br>
-<b><h1>What's new in version 1.6 ?</h1></b>
-
-<ul>
-      <li><b>Added Ball Curve randomization factor as an Anti-ban, which will result in random XP gained within an accuracy range you define!</b></li>
-      <p align="center"><img src="http://puu.sh/qGJjM/fc98bf42f6.png" alt="hackemon"></p>
-               <li><b>Added Auto Egg-Incubation, incubates multiple eggs using an incubator per each all at once!</b></li>
-                <p align="center"><img src="http://puu.sh/qGVyo/a22e039ef6.png" alt="hackemon"></p>
-               <li><b>Added Manual Power-up feature to the Interactive pokemons tab!</b></li>
-                  <p align="center"><img src="http://puu.sh/qH4ac/eb2b65ef8f.png" alt="hackemon"></p>
-               <li><b>Added Auto-Evolving feature with options to include, set min CP/IV and min to keep. </b></li>
-               <p align="center"><img src="http://puu.sh/qGYK6/a28caa3a30.png" alt="hackemon"></p>
-               
-               <li><b>Now the bot saves the last location per player profile to load it next time and start from there.</b></li>
-               <li><b>Fixed the bug in which stats don't show.</b></li>
- </ul>
-            <br>
-             
-           
-            <br><br>
-<b><h1>What's new in version 1.51 ?</h1></b>
-
-<ul>
-            <li><b>Added Incense Item Usage & Incense Pokemons Encountering/Catching</li> 
-               <li>Human Device Information now saves per game profile, and you can generate one or enter your own device details if you will, edit manually only when you are fully logged in, so it saves it for your currently loaded profile.<b>
-               <p align="center"><img src="http://puu.sh/qDJbS/9d1b4a9fdb.png" alt="settings"></p>
-               </li>
-               <br>
-               
-               <li>Fixed saving some settings that weren't being saved </li>
-			
-</ul>
-
+ 
 
 <p align="center"><img src="http://puu.sh/qBPAE/925a599b90.png" alt="hackemon"></p>
 <br>
