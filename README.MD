@@ -43,7 +43,24 @@ alt="Runs on All Operating Systems including Windows,Linux, Mac and OpenBSD"  bo
                 <li> Easy Account Switch Feature</li>
 </ul>
 </b>
-
+<ul>
+               <li><b>Added the new 'SMART_MODE' walking mode which combines the benifits of both ROAD_FLY(Straight line) & ROAD_WALK (long valid roads) to come up with a unique solution of a short & human path at the same time.</b></li>
+               <li><b>Added a fully featured break-handler to take random breaks between min & max values based on an array of options: 
+                <ul>
+               <li> Take Break Every Random X minutes passed (Min,Max) </li>
+               <li> Take Break When X Pokestops Cap Reached </li>
+               <li> Take Break When X Pokemon Captured Cap Reached </li>
+                <li> Take Break When X levels were gained.</li>
+               </ul>
+              </li>
+               <li>Fixed a lot of various issues that messes with the smoothness and effeciency of the bot (start/stop/relog sometimes used to get stuck , however this is not related to getting stuck on 'accepting level rewards'</li>
+               <li>Fixed HTTP proxy selection (previously it was stuck to Socks mode only in code)</li>
+               <li>Fixed introducing catch-re-attempt human error factor (wasn't working in last update)</li>
+               <li>Pokemon capture now shows gained candy + Stardust (not sure why i didn't have that earlier =/)</li>
+               <li>Fixed live stats update for various tasks in which some didn't update the stats at all</li>
+               <li>Manual-snipe now accepts pokemon name as a 3rd argument in the text field instead of selecting it form a drop-down list in which many felt it was difficult : ex (-32.22,101.4443,Jynx)</li>
+               </ul>
+ 
  <h1>Patch 1.62 </h1> 
 <b><i>*Note: Now Transfering Pokemons doesn't concern duplicates only, if you set duplicates to keep to 0 all pokemons are going to be transfered (the ones that are under the max CP assigned)</i></b>
 <ul>
