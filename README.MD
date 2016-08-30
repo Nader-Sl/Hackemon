@@ -44,6 +44,15 @@ alt="Runs on All Operating Systems including Windows,Linux, Mac and OpenBSD"  bo
 </ul>
 </b>
 <br>
+<h1>Patch 1.71 MiniPatch/Hot-Fix </h1> 
+<ul>
+ <li>Fixed a bug introduced in v1.7 that caused duplicating items and pokemons exclude/include lists which is beleived to cause freezes.</li>
+  <li>Manual-Sniping input format now follows that of 'pokezz.com' : 'Pokemon latitude, longitude' e.g (Pikachu 48.935454, 2.328961) </li>
+ <li>All Lists now are multi-interval selectable , you can press ctrl+A to select all or ctrl+click specific elements to highlight the corresponding and then you can apply a task on the selected element like '<' button would remove all selected.</li>
+  <li>Fixed the taking-break minutes announced in log (it used to say the time for the next break and not the time for the current break)</li>
+              
+</ul>
+<br><br>
  <h1>Patch 1.7 </h1> 
 <ul>
                <li><b>Added the new 'SMART_MODE' walking mode which combines the benifits of both ROAD_FLY(Straight line) & ROAD_WALK (long valid roads) to come up with a unique solution of a short & human path at the same time.</b></li>
@@ -66,29 +75,6 @@ alt="Runs on All Operating Systems including Windows,Linux, Mac and OpenBSD"  bo
                <li>Fixed live stats update for various tasks in which some didn't update the stats at all</li>
                <li>Manual-snipe now accepts pokemon name as a 3rd argument in the text field instead of selecting it form a drop-down list in which many felt it was difficult : ex (-32.22,101.4443,Jynx)</li>
                </ul>
- 
- <h1>Patch 1.62 </h1> 
-<b><i>*Note: Now Transfering Pokemons doesn't concern duplicates only, if you set duplicates to keep to 0 all pokemons are going to be transfered (the ones that are under the max CP assigned)</i></b>
-<ul>
-  <li><b>Added HTTP/Socket Proxy Support.</b></li>
-   <p align="center"><img src="http://puu.sh/qOgnC/9d2c8f1a35.png" alt="hackemon"></p>
-  
-  <li><b>Added a Theme changer (23 skins to select from)</b></li>
-  <p align="center"><img src="http://puu.sh/qOfYu/ed2f7671d4.png" alt="hackemon"></p>
-  <li><b>Added colored text for the out put log (1 color per task).</b></li>
-  <p align="center"><img src="http://puu.sh/qOdUf/df556e2db0.png" alt="hackemon"></p>
-  
-  <li><b>Revamped the stats panel, its now bigger so it can show a lot of stats and you can hide/show it by pressing the stats button, it now shows time ran and XP/H averaging.</b></li>
-  <p align="center"><img src="http://puu.sh/qOgfA/4f9bc5a15f.jpg" alt="hackemon"></p>
-   
-  <li><b>Exchanged pokemons sprites with much better and smoother ones.</b></li>
-  <p align="center"><img src="http://puu.sh/qOfpT/df8550884a.png" alt="hackemon"></p>
-  
-  <li><b>Fixed the bug with transfer and evolve ommiting the duplicates to keep</b></li>
-  <li><b>Fixed an issue with GUI that wasn't saving the range field</b></li>
-  <li><b>Fixed an bug with GUI that was generated random device ID on Relog.</b></li>
- </ul>
- 
 
 
 <br>
