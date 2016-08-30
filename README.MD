@@ -28,7 +28,7 @@ alt="Runs on All Operating Systems including Windows,Linux, Mac and OpenBSD"  bo
 <li>Runs on all PC Operating Systems : Windows,Linux,Mac,OpenBSD, etc.. </li>
   <li> Supports Google & PTC Accounts</li>
                <li> Nice Intuitive Gui </li>
-                <li> <b> Realtime Visualized Advanced Human Road Walking/Path finding with custom speeds and various presets.<b>.</li>
+                <li> <b> Realtime Visualized Advanced Human Road Walking/Path finding with custom speeds and various presets.</b></li>
                  <li> Visits all pokestops (non cooldowned) in the region based on many heuristics</li>
                 <li> Catches all pokemons while walking to pokestops</li>
                 <li> Consumes Raspberries when needed to gain a higher chance to catch a pokemon.</li>
