@@ -53,6 +53,7 @@ alt="Runs on All Operating Systems including Windows,Linux, Mac and OpenBSD"  bo
 </b>
 <br>
 <h1>Patch 1.75 </h1> 
+*PS: accounts will now respawn at origin/base location after this update because general settings file is now separated from that of account-specific settings, so don't freak out :p
 <ul>
  <li><b>Added a sepecial feature : Multiple Timed Regions Roaming <br> This feature will allow you to add multiple timed regions through a nice interactive editor and set the roaming time within each, once that time is up it moves to the next region, more options and flexibility will be added to this feature over the next updates</b>.</li> 
  <br><br><b>click on image for video</b>:
