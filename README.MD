@@ -28,53 +28,45 @@ alt="Runs on All Operating Systems including Windows,Linux, Mac and OpenBSD"  bo
 <li>Runs on all PC Operating Systems : Windows,Linux,Mac,OpenBSD, etc.. </li>
   <li> Supports Google & PTC Accounts</li>
                <li> Nice Intuitive Gui </li>
-                <li> <b> Realtime Visualized Advanced Human Road Walking/Path finding with custom speeds and various presets.</b></li>
+                <li> <b> Realtime Visualized interactive map.</b></li>
+                <li> Optimum human walking featuring SMART_MODE (curvy undetectable paths) , real WALKING,DRIVING,BIKING ROAD MAPS and other routes.
+                <li> Interactive region editor embeded in map to created multiple timed regions for randomized roaming.
                  <li> Visits all pokestops (non cooldowned) in the region based on many heuristics</li>
                 <li> Catches all pokemons while walking to pokestops</li>
                 <li> Consumes Raspberries when needed to gain a higher chance to catch a pokemon.</li>
                 <li> <b>Multiple Parallel Async Rare Pokemon Sniping exploit (Very fast XP)</b></li>
-                <li> Utilitzes the best matching ball to catch the corresponding pokemon.</li>
+                <li> <b> Manual-Sniping </b></li>
+                <li> Rich Break-Handler with option to take a break based on pokestops, pokemon cought, levels gained caps or just every x min and max time passed.</li>
                 <li> Lucky Egg Utilization for boosting XP.</li>
+                <li> Auto-Egg Incubation</li>
                 <li> Transferes the pokemons to the professor and gain candy</li>
+                <li> Auto Evolve the pokemons</li>
                 <li>Auto Items Recycling </li>         
+                <li> fully interactive pokemon inventory in which you can manually transfer, evolve and power-up each</li>
                 <li> Auto collects Rewards on level up.</li>
+                <li> Proxy Support (SOCKS & HTTP) </li>
                 <li> Lots of Humanization and other settings to set under the setting tab</li>
                 <li> Ban-safe</li>
+                <li> Automatic Save</li>
                 <li> Easy Account Switch Feature</li>
 </ul>
 </b>
 <br>
-<h1>Patch 1.71 MiniPatch/Hot-Fix </h1> 
+<h1>Patch 1.75 </h1> 
 <ul>
- <li>Fixed a bug introduced in v1.7 that caused duplicating items and pokemons exclude/include lists which is beleived to cause freezes.</li>
-  <li>Manual-Sniping input format now follows that of 'pokezz.com' : 'Pokemon latitude, longitude' e.g (Pikachu 48.935454, 2.328961) </li>
- <li>All Lists now are multi-interval selectable , you can press ctrl+A to select all or ctrl+click specific elements to highlight the corresponding and then you can apply a task on the selected element like '<' button would remove all selected.</li>
-  <li>Fixed the taking-break minutes announced in log (it used to say the time for the next break and not the time for the current break)</li>
-              
+ <li>Added a sepecial feature : Multiple Timed Regions Roaming <br> This feature will allow you to add multiple timed regions through a nice interactive editor and set the roaming time within each, once that time is up it moves to the next region, more options and flexibility will be added to this feature over the next updates.</li> 
+ click on image for video:
+ <a href="https://www.youtube.com/watch?v=Bs9bUVgzZoA" target="_blank"><img src="http://puu.sh/qZr9d/b0e59285ce.jpg" 
+alt="Runs on All Operating Systems including Windows,Linux, Mac and OpenBSD"  border="10" /></a>
+   <li>Manual-Sniping now have an auto-suggestion box incase you are not sure of the name that'll help, in addition to that certain pokemon names that were failing because of different naming across sites is now fixed for example you can use both 'MrMime' and 'Mr. Mime', finally the feature now is in a separated on-top window acccessable through the 'snipe' button.</li> 
+    
+   <p align="center"><img src="http://puu.sh/qZoUr/a11a611ead.png" alt="settings"></p>
+    <li>Added scroll-bars to the settings tabs, that would come in handy at the time being for those who weren't able to see the rest of the options and it would cut-off as they resize.</li> 
+           <li>Fixed Proxy selection not being applied.</li> 
+               <li>Added a force save hotkey [ctrl + s] which is recommended to use when you change settings or add regions, since sometimes automatic save can't be 100% real-time..</li> 
+                 <li>Account-Specific settings are now separated from general settings in a file called 'userSettings.json' , so now you can delete 'settings.json' without losing last saved location and other account-specific data.</li> 
+               
 </ul>
-<br><br>
- <h1>Patch 1.7 </h1> 
-<ul>
-               <li><b>Added the new 'SMART_MODE' walking mode which combines the benifits of both ROAD_FLY(Straight line) & ROAD_WALK (long valid roads) to come up with a unique solution of a short & human path at the same time.</b></li>
-              
-               <p align="center"><img src="http://puu.sh/qRQji/897d477e68.jpg" alt="hackemon"></p>
-               <li><b>Added a fully featured break-handler to take random breaks between min & max values based on an array of options: 
-                <ul>
-               <li> Take Break Every Random X minutes passed (Min,Max) </li>
-               <li> Take Break When X Pokestops Cap Reached </li>
-               <li> Take Break When X Pokemon Captured Cap Reached </li>
-                <li> Take Break When X levels were gained.</li>
-               </ul>
-              </li>
-               <p align="center"><img src= "http://puu.sh/qRSJp/297cb422c3.png" alt="hackemon"></p>
-              
-               <li>Fixed a lot of various issues that messes with the smoothness and effeciency of the bot (start/stop/relog sometimes used to get stuck , however this is not related to getting stuck on 'accepting level rewards'</li>
-               <li>Fixed HTTP proxy selection (previously it was stuck to Socks mode only in code)</li>
-               <li>Fixed introducing catch-re-attempt human error factor (wasn't working in last update)</li>
-               <li>Pokemon capture now shows gained candy + Stardust (not sure why i didn't have that earlier =/)</li>
-               <li>Fixed live stats update for various tasks in which some didn't update the stats at all</li>
-               <li>Manual-snipe now accepts pokemon name as a 3rd argument in the text field instead of selecting it form a drop-down list in which many felt it was difficult : ex (-32.22,101.4443,Jynx)</li>
-               </ul>
 
 
 <br>
