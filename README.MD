@@ -14,7 +14,7 @@
  [→Click here to join disucssion & News on Discord](https://discord.gg/mMhuG6q)
  <p align="center"><img src="http://puu.sh/qLnfp/4ae47dd03f.jpg" alt="hackemon"></p>
  <br><br><font size=2px><b>Click on the following image for the Current version's youtube video preview.</b><font>
-<a href="https://www.youtube.com/watch?v=sliGm7nb0Ic&feature=youtu.be" target="_blank"><img src="http://puu.sh/qZr9d/b0e59285ce.jpg" 
+<a href="https://www.youtube.com/watch?v=Bs9bUVgzZoA" target="_blank"><img src="http://puu.sh/qZr9d/b0e59285ce.jpg" 
 alt="Runs on All Operating Systems including Windows,Linux, Mac and OpenBSD"  border="10" /></a>
 
 <p align="center"><img src="http://puu.sh/qH7Rm/08d37b48f6.png" alt="settings"></p>
