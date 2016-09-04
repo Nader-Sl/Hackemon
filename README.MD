@@ -63,6 +63,8 @@ alt="Runs on All Operating Systems including Windows,Linux, Mac and OpenBSD"  bo
     
    <p align="center"><img src="http://puu.sh/qZoUr/a11a611ead.png" alt="settings"></p>
     <li>Added scroll-bars to the settings tabs, that would come in handy at the time being for those who weren't able to see the rest of the options and it would cut-off as they resize.</li> 
+     <p align="center"><img src=" http://puu.sh/qYEkG/0dbf11f183.png" alt="settings"></p>
+    
            <li>Fixed Proxy selection not being applied.</li> 
                <li>Added a force save hotkey [ctrl + s] which is recommended to use when you change settings or add regions, since sometimes automatic save can't be 100% real-time..</li> 
                  <li>Account-Specific settings are now separated from general settings in a file called 'userSettings.json' , so now you can delete 'settings.json' without losing last saved location and other account-specific data.</li> 
