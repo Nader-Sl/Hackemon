@@ -14,7 +14,7 @@
  [→Click here to join disucssion & News on Discord](https://discord.gg/mMhuG6q)
  <p align="center"><img src="http://puu.sh/qLnfp/4ae47dd03f.jpg" alt="hackemon"></p>
  <br><br><font size=2px><b>Click on the following image for the Current version's youtube video preview.</b><font>
-<a href="https://www.youtube.com/watch?v=sliGm7nb0Ic&feature=youtu.be" target="_blank"><img src="http://puu.sh/qz8W8/349e3b4816.jpg" 
+<a href="https://www.youtube.com/watch?v=sliGm7nb0Ic&feature=youtu.be" target="_blank"><img src="http://puu.sh/qZr9d/b0e59285ce.jpg" 
 alt="Runs on All Operating Systems including Windows,Linux, Mac and OpenBSD"  border="10" /></a>
 
 <p align="center"><img src="http://puu.sh/qH7Rm/08d37b48f6.png" alt="settings"></p>
@@ -54,8 +54,8 @@ alt="Runs on All Operating Systems including Windows,Linux, Mac and OpenBSD"  bo
 <br>
 <h1>Patch 1.75 </h1> 
 <ul>
- <li>Added a sepecial feature : Multiple Timed Regions Roaming <br> This feature will allow you to add multiple timed regions through a nice interactive editor and set the roaming time within each, once that time is up it moves to the next region, more options and flexibility will be added to this feature over the next updates.</li> 
- click on image for video:
+ <li><b>Added a sepecial feature : Multiple Timed Regions Roaming <br> This feature will allow you to add multiple timed regions through a nice interactive editor and set the roaming time within each, once that time is up it moves to the next region, more options and flexibility will be added to this feature over the next updates</b>.</li> 
+ <br><br><b>click on image for video</b>:
  <a href="https://www.youtube.com/watch?v=Bs9bUVgzZoA" target="_blank"><img src="http://puu.sh/qZr9d/b0e59285ce.jpg" 
 alt="Runs on All Operating Systems including Windows,Linux, Mac and OpenBSD"  border="10" /></a>
    <li>Manual-Sniping now have an auto-suggestion box incase you are not sure of the name that'll help, in addition to that certain pokemon names that were failing because of different naming across sites is now fixed for example you can use both 'MrMime' and 'Mr. Mime', finally the feature now is in a separated on-top window acccessable through the 'snipe' button.</li> 
