@@ -52,6 +52,9 @@ alt="Runs on All Operating Systems including Windows,Linux, Mac and OpenBSD"  bo
 </ul>
 </b>
 <br>
+<h1>1.76 (ROAD_MODES BUG HOTFIX) </h1> 
+Fixed the ROAD_MODES patch 1.75's walking bug that generated long routes across africa =[]
+              
 <h1>Patch 1.75 </h1> 
 *PS: accounts will now respawn at origin/base location after this update because general settings file is now separated from that of account-specific settings, so don't freak out :p
 <ul>
