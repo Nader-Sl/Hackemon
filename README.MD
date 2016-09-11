@@ -13,7 +13,7 @@
  <br>
  [→Click here to join disucssion & News on Discord](https://discord.gg/mMhuG6q)
 <font size=2px><b>Click on the following image for a teaser about the upcoming Hackemon 2.0 new Super intuitive & Responsive forged design (and  revamped code base)</b><font>
-<a href="https://www.youtube.com/watch?v=qVC-3PbIBhw" target="_blank"><img src="http://puu.sh/r7H8i/7bbc7eed05.jpg 
+<a href="https://www.youtube.com/watch?v=qVC-3PbIBhw" target="_blank"><img src="http://puu.sh/r7H8i/7bbc7eed05.jpg"
 alt="Runs on All Operating Systems including Windows,Linux, Mac and OpenBSD"  border="10" /></a>
 
  <br><br><font size=2px><b>Click on the following image for the Current version's youtube video preview.</b><font>
