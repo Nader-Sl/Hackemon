@@ -8,7 +8,7 @@
 <br><br> <h1><b>The Multi-Platform Pokemon-Go farming bot on a whole new human level is here! </b></h1><br><h2><b>"Now</b> you officially have no excuse for exercising anymore, you are free to sit back on your ass and eat your pizza while drinking your fav beer ;)"</h2>
  
  *PS: If Issues has been closed on github, please visit the forums for that:
- <br><small><font color="grey"><i>Note: You need to have Java and JDK installed in your PC visit <a href="https://www.oracle.com/index.html" target="_blank">this site </a>for more help.</font></small>
+ <br><small><i>Note: You need to have Java and JDK installed in your PC visit <a href="https://www.oracle.com/index.html" target="_blank">this site </a>for more help.
  
  [→Click here Check out the official Hackemon Forums](http://www.hackemon.io)
  <br>
