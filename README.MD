@@ -17,12 +17,12 @@
 <a href="https://www.youtube.com/watch?v=qVC-3PbIBhw" target="_blank"><img src="http://puu.sh/r7H8i/7bbc7eed05.jpg"
 alt="Runs on All Operating Systems including Windows,Linux, Mac and OpenBSD"  border="10" /></a>
 
- <br><br><font size=2px><b>Click on the following image for the Current version's youtube video preview.</b><font>
-<a href="https://www.youtube.com/watch?v=g5gVHZKQHv8" target="_blank"><img src="http://puu.sh/qZr9d/b0e59285ce.jpg" 
-alt="Runs on All Operating Systems including Windows,Linux, Mac and OpenBSD"  border="10" /></a>
+ <br><br> 
 
-<p align="center"><img src="http://puu.sh/qH7Rm/08d37b48f6.png" alt="settings"></p>
-
+<p align="center"><img src="http://puu.sh/rlrPK/e91f3fba9c.png" alt="settings"></p>
+<p align="center"><img src="http://puu.sh/rlrUF/3530f84c3b.png" alt="settings"></p>
+<p align="center"><img src="http://puu.sh/rlrWd/4fa6c91d80.jpg" alt="settings"></p>
+<p align="center"><img src="http://puu.sh/rlrXJ/1a0ed0e7d5.png" alt="settings"></p>
 
 <h2><b>Hackémon</b> is designed with a primary intent for it to be very rich in logic, highly customizable, brightly intuitive and of course the most core principle, Undetectability (Ban-Safe) through utilizing human road/path finding under customizable settings with presets.</h2>
 <br>
