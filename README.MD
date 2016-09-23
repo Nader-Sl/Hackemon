@@ -19,8 +19,8 @@ alt="Runs on All Operating Systems including Windows,Linux, Mac and OpenBSD"  bo
 
  <br><br> 
 
-<p align="center"><img src="http://puu.sh/rlrPK/e91f3fba9c.png" alt="settings"></p>
 <p align="center"><img src="http://puu.sh/rls14/c7c1e04417.png" alt="settings"></p>
+<p align="center"><img src="http://puu.sh/rlrUF/3530f84c3b.png" alt="settings"></p>
 <p align="center"><img src="http://puu.sh/rlrWd/4fa6c91d80.jpg" alt="settings"></p>
 <p align="center"><img src="http://puu.sh/rlrXJ/1a0ed0e7d5.png" alt="settings"></p>
 
