@@ -11,8 +11,8 @@
  [→Click here Check out the official Hackemon Forums](http://www.hackemon.io)
  <br>
  [→Click here to join disucssion & News on Discord](https://discord.gg/mMhuG6q)
- 
- <h3>Hackemon 2.0 is Here! </h3>
+ <br><br>
+ <h1>Hackemon 2.0 is Here! </h1>
 <br><br><font size=2px><b>Click on the following image for a Preview of Hackemon 2.0 new Super intuitive & Responsive forged design (and  revamped code base)</b><font>
 <a href="https://www.youtube.com/watch?v=qVC-3PbIBhw" target="_blank"><img src="http://puu.sh/r7H8i/7bbc7eed05.jpg"
 alt="Runs on All Operating Systems including Windows,Linux, Mac and OpenBSD"  border="10" /></a>
@@ -67,7 +67,7 @@ alt="Runs on All Operating Systems including Windows,Linux, Mac and OpenBSD"  bo
  <li> Max exploration range is back (-1 for indefinite range)</li>
 </ul>
 
-*PS : 
+<b>**PS : </b>
 <ul><li>when performing bulk actions in the pokemon inventory tab , wait till the action is executed as needed, it might take some time, wait it, indicators will be added in next version.<li>
 <li> When you press the 'Start' button and you are authenticating , if you see that the GUI went unrepsonsive for a bit, wait it, don't press it multiple times, this would be better addressed in next update</li>
 
