@@ -63,6 +63,7 @@ alt="Runs on All Operating Systems including Windows,Linux, Mac and OpenBSD"  bo
  <li> Got rid of all the freezing </li>
  <li> Catch-Log no longer is in love with 'RATTATA'</li>
  <li> Added Pokeballs left & XP/H Averaging to the STATS Panel</li>
+ <li> Fixed the Moves displayed in the pokemon inventory (shows dynamic now)</li>
  <li> Extended the width of the Pokesnipe text field to show the whole input</li>
  <li> Changed Font in most parts to a very fine professional one, easily read & neat. </li>
  <li> 'Pokesnipe' action color separate from that of 'Pokemon Farm' in console's log & pokemon names are now highlighted in red.</li>
