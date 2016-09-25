@@ -14,7 +14,7 @@
  <br><br>
  <h1>Hackemon 2.0 is Here! </h1>
 <br><br><font size=2px><b>Click on the following image for a Preview of Hackemon 2.0 new Super intuitive & Responsive forged design (and  revamped code base)</b><font>
-<a href="https://www.youtube.com/watch?v=qVC-3PbIBhw" target="_blank"><img src="http://puu.sh/r7H8i/7bbc7eed05.jpg"
+<a href="https://www.youtube.com/watch?v=qVC-3PbIBhw" target="_blank"><img src="http://puu.sh/rnHMF/07856b5b47.jpg"
 alt="Runs on All Operating Systems including Windows,Linux, Mac and OpenBSD"  border="10" /></a>
 
  <br><br> 
@@ -56,20 +56,29 @@ alt="Runs on All Operating Systems including Windows,Linux, Mac and OpenBSD"  bo
 </ul>
 </b>
 <br>
-          
+    
+<h1>Hackemon 2.01</h1> 
+
+<ul>
+ <li> Got rid of all the freezing </li>
+ <li> Catch-Log no longer is in love with 'RATTATA'</li>
+ <li> Added Pokeballs left & XP/H Averaging to the STATS Panel</li>
+ <li> Extended the width of the Pokesnipe text field to show the whole input</li>
+ <li> Changed Font in most parts to a very fine professional one, easily read & neat. </li>
+ <li> 'Pokesnipe' action color separate from that of 'Pokemon Farm' in console's log & pokemon names are now highlighted in red.</li>
+ <li> Added a 'Clear' button to the catch-log which also auto clears upon pressing the stop button.</li>
+ <li> Added links to site and donation in the 'News' tab </li>
+</ul>
+
 <h1>Hackemon 2.0</h1> 
 
 <ul>
  <li> New Kick-ass intuitive & fUlly responsive/scalable GUI </li>
- <li> New accounts set-up system in which it stores device information along with base and last saved locations.
- <li> New fully featured multi-sortable interactive pokemon inventory + setting favorite feature + bulk transfer/evolve/powerup.
+ <li> New accounts set-up system in which it stores device information along with base and last saved locations.</li>
+ <li> New fully featured multi-sortable interactive pokemon inventory + setting favorite feature + bulk transfer/evolve/powerup.</li>
  <li> Multiple Regions Tool and Proxy support are removed as of Hackemon 2.0 as they are under a re-plan</li>
  <li> Max exploration range is back (-1 for indefinite range)</li>
 </ul>
-
-<b>**PS : </b>
-<ul><li>when performing bulk actions in the pokemon inventory tab , wait till the action is executed as needed, it might take some time, wait it, indicators will be added in next version.<li>
-<li> When you press the 'Start' button and you are authenticating , if you see that the GUI went unrepsonsive for a bit, wait it, don't press it multiple times, this would be better addressed in next update</li>
 
 
 <br>
