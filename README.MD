@@ -56,6 +56,8 @@ alt="Runs on All Operating Systems including Windows,Linux, Mac and OpenBSD"  bo
 </ul>
 </b>
 <br>
+<h1>Hackemon 2.03</h1> 
+Fixed Obfsucation (code protection) algorithm which was causing exceptions.
 
 <h1>Hackemon 2.02</h1> 
 
