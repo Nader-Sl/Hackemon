@@ -56,7 +56,17 @@ alt="Runs on All Operating Systems including Windows,Linux, Mac and OpenBSD"  bo
 </ul>
 </b>
 <br>
-    
+
+<h1>Hackemon 2.02</h1> 
+
+<ul>
+ <li>Fixed Item Recycling bug in which it omitted the value written in spinner and recyces all items of a certain type, and now prints items left of that type in chat after recycle.</li>
+ <li>Added modify button to Item Recycler so you can re-edit its value.</li>
+ <li>Stardust value now updates as it should.</li>
+ <li>Added Pokemons and Items curr/max count in stats panel.</li>
+
+</ul>
+
 <h1>Hackemon 2.01</h1> 
 
 <ul>
