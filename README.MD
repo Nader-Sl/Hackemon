@@ -5,6 +5,7 @@
 <p align="center"><b>"Gotta Hack'em All!"</b></p>
 <p align="center"><h2 align="center">www.hackemon.io</h2></p>
 
+<h1>I'm back, nice to see you again, time to continue the cool plans we had!</h1>
 <br><br> <h1><b>The Multi-Platform Pokemon-Go farming bot on a whole new human level is here! </b></h1><br><h2><b>"Now</b> you officially have no excuse for exercising anymore, you are free to sit back on your ass and eat your pizza while drinking your fav beer ;)"</h2>
  
  *PS: If Issues has been closed on github, please visit the forums for that:
