@@ -56,10 +56,11 @@ alt="Runs on All Operating Systems including Windows,Linux, Mac and OpenBSD"  bo
 </ul>
 </b>
 <br>
+
 <h1>Hackemon 2.04</h1> 
- *API changes in which Hackemon runs nicely on the latest API.
- *Tutorial auto completion feature.
- *Pokemon Inventory now shows nicknamed/renamed pokemon.
+ * API changes in which Hackemon runs nicely on the latest API.
+ * Tutorial auto completion feature.
+ * Pokemon Inventory now shows nicknamed/renamed pokemon.
 
 <h1><u>What's being worked on currently?</u></h1> 
  * Re-captcha challenge handling (mostly coded but didn't encounter it to test it yet)
