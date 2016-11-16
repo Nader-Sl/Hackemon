@@ -8,6 +8,7 @@
 <br><br> <h1><b>The Multi-Platform Pokemon-Go farming bot on a whole new human level is here! </b></h1><br><h2><b>"Now</b> you officially have no excuse for exercising anymore, you are free to sit back on your ass and eat your pizza while drinking your fav beer ;)"</h2>
  
  *PS: If Issues has been closed on github, please visit the forums for that:
+ <br>
  [→Click here Check out the official Hackemon Forums](http://www.hackemon.io)
  <br>
  [→Click here to join disucssion & News on Discord](https://discord.gg/mMhuG6q)
