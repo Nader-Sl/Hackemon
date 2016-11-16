@@ -13,7 +13,7 @@
  [→Click here to join disucssion & News on Discord](https://discord.gg/mMhuG6q)
  <br><br>
  <h1>Its back! up and running on the latest API, time to continue the genius plans we had!</h1>
-<br><br><font size=2px><b>Click on the following image for a Preview of Hackemon 2.0 new Super intuitive & Responsive forged design (and  revamped code base)</b><font>
+<br><br>
 <p align="center"><img src="http://puu.sh/rlrWd/4fa6c91d80.jpg" alt="settings"></p>
 <p align="center"><img src="http://puu.sh/rnHMF/07856b5b47.jpg" alt="settings"></p>
 <p align="center"><img src="http://puu.sh/rlrXJ/1a0ed0e7d5.png" alt="settings"></p>
