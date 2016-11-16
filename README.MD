@@ -14,12 +14,12 @@
  <br><br>
  <h1>Its back! up and running on the latest API, time to continue the genius plans we had!</h1>
 <br><br><font size=2px><b>Click on the following image for a Preview of Hackemon 2.0 new Super intuitive & Responsive forged design (and  revamped code base)</b><font>
+<p align="center"><img src="http://puu.sh/rlrWd/4fa6c91d80.jpg" alt="settings"></p>
 <a href="https://www.youtube.com/watch?v=qVC-3PbIBhw" target="_blank"><img src="http://puu.sh/rnHMF/07856b5b47.jpg"
 alt="Runs on All Operating Systems including Windows,Linux, Mac and OpenBSD"  border="10" /></a>
 
  <br><br> 
 <p align="center"><img src="http://puu.sh/rlrXJ/1a0ed0e7d5.png" alt="settings"></p>
-<p align="center"><img src="http://puu.sh/rlrWd/4fa6c91d80.jpg" alt="settings"></p>
 <p align="center"><img src="http://puu.sh/rls14/c7c1e04417.png" alt="settings"></p>
 <p align="center"><img src="http://puu.sh/sjHUj/27bdc9f99e.png" alt="settings"></p>
 <p align="center"><img src="http://puu.sh/sjHKp/8f468364d4.png" alt="settings"></p>
