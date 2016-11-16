@@ -57,6 +57,9 @@ alt="Runs on All Operating Systems including Windows,Linux, Mac and OpenBSD"  bo
 </b>
 <br>
 
+<h1>Hackemon 2.051[Hot-Fix]</h1> 
+* Fixed slow walking issue in the last update that appeared as a result of full incubation/hatching support.
+
 <h1>Hackemon 2.05</h1> 
 * Added Smart Interactive Items Inventory (you can recycle and use x amount of items at once, it knows what you can recycle and use, and only show use buttons when you are able to use the item)
 * Added Interactive Eggs Inventory (you can view all current eggs and their progress of incubation , as you can also incubate non-incubated eggs)
@@ -64,16 +67,10 @@ alt="Runs on All Operating Systems including Windows,Linux, Mac and OpenBSD"  bo
 * Added pokemon renaming
 * Added pokemon buddy set
 * Fixed a bug where it uses greatballs forcely
-* Fixed Egg incubation & Hatching, now should incubate with infinite incubator and automatically hatch the pokemon.
+* Fixed Egg incubation & Hatching, now should incubate with infinite incubator and automatically hatch the pokemon (hatches the eggs on pokestops).
 * Catch log is now sorted by timestamp (latest catch shows on top).
 * Pokemons sprites in pokemon tab are replaced by cool animated sprites =)
-
  
-<h1>Hackemon 2.04</h1> 
- * API changes in which Hackemon runs nicely on the latest API.
- * Tutorial auto completion feature.
- * Pokemon Inventory now shows nicknamed/renamed pokemon.
-
 
 <br>
 <b><h1>→ Installation:</h1></b>
