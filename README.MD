@@ -56,42 +56,16 @@ alt="Runs on All Operating Systems including Windows,Linux, Mac and OpenBSD"  bo
 </ul>
 </b>
 <br>
-<h1>Hackemon 2.03</h1> 
-Fixed Obfsucation (code protection) algorithm which was causing exceptions and therefore odd functionality.
 
-<h1>Hackemon 2.02</h1> 
+<h1>Hackemon 2.04</h1> 
+ * API changes in which Hackemon runs nicely on the latest API.
+ * Tutorial auto completion feature.
+ * Pokemon Inventory now shows nicknamed/renamed pokemon.
 
-<ul>
- <li>Fixed Item Recycling bug in which it omitted the value written in spinner and recyces all items of a certain type, and now prints items left of that type in chat after recycle.</li>
- <li>Added modify button to Item Recycler so you can re-edit its value.</li>
- <li>Stardust value now updates as it should.</li>
- <li>Added Pokemons and Items curr/max count in stats panel.</li>
-
-</ul>
-
-<h1>Hackemon 2.01</h1> 
-
-<ul>
- <li> Got rid of all the freezing </li>
- <li> Catch-Log no longer is in love with 'RATTATA'</li>
- <li> Added Pokeballs left & XP/H Averaging to the STATS Panel</li>
- <li> Fixed the Moves displayed in the pokemon inventory (shows dynamic now)</li>
- <li> Extended the width of the Pokesnipe text field to show the whole input</li>
- <li> Changed Font in most parts to a very fine professional one, easily read & neat. </li>
- <li> 'Pokesnipe' action color separate from that of 'Pokemon Farm' in console's log & pokemon names are now highlighted in red.</li>
- <li> Added a 'Clear' button to the catch-log which also auto clears upon pressing the stop button.</li>
- <li> Added links to site and donation in the 'News' tab </li>
-</ul>
-
-<h1>Hackemon 2.0</h1> 
-
-<ul>
- <li> New Kick-ass intuitive & fUlly responsive/scalable GUI </li>
- <li> New accounts set-up system in which it stores device information along with base and last saved locations.</li>
- <li> New fully featured multi-sortable interactive pokemon inventory + setting favorite feature + bulk transfer/evolve/powerup.</li>
- <li> Multiple Regions Tool and Proxy support are removed as of Hackemon 2.0 as they are under a re-plan</li>
- <li> Max exploration range is back (-1 for indefinite range)</li>
-</ul>
+<h1><u>What's being worked on currently?</u></h1> 
+ * Re-captcha challenge handling (mostly coded but didn't encounter it to test it yet)
+ * Inventory Pokemon Renaming
+ * Inventory Pokemon Buddy set.
 
 
 <br>
