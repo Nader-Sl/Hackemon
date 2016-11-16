@@ -18,8 +18,8 @@
 alt="Runs on All Operating Systems including Windows,Linux, Mac and OpenBSD"  border="10" /></a>
 
  <br><br> 
-<p align="center"><img src="http://puu.sh/rlrWd/4fa6c91d80.jpg" alt="settings"></p>
 <p align="center"><img src="http://puu.sh/rlrXJ/1a0ed0e7d5.png" alt="settings"></p>
+<p align="center"><img src="http://puu.sh/rlrWd/4fa6c91d80.jpg" alt="settings"></p>
 <p align="center"><img src="http://puu.sh/rls14/c7c1e04417.png" alt="settings"></p>
 <p align="center"><img src="http://puu.sh/sjHUj/27bdc9f99e.png" alt="settings"></p>
 <p align="center"><img src="http://puu.sh/sjHKp/8f468364d4.png" alt="settings"></p>
