@@ -22,7 +22,7 @@
 <p align="center"><img src="http://puu.sh/sjHUj/27bdc9f99e.png" alt="settings"></p>
 <p align="center"><img src="http://puu.sh/sjHKp/8f468364d4.png" alt="settings"></p>
 <p align="center"><img src="http://puu.sh/sjHLK/abe0e54813.png" alt="settings"></p>
-
+ 
 
 <h2><b>Hackémon</b> is designed with a primary intent for it to be very rich in logic, highly customizable, brightly intuitive and of course the most core principle, Undetectability (Ban-Safe) through utilizing human road/path finding under customizable settings with presets.</h2>
 <br>
@@ -62,6 +62,7 @@
 Once you are challenged, Hackemon will display a window pop up showing the captcha for you to solve (using its own browser/renderer), once you've completed the 
 challenge and press 'Verify' Hackemon will automatically intercept the network traffic and grab the required token for validation and notify the niantic server, incase the response
 back from niantic was success , bot will continue its task normally, otherwise it'll close current popup and display another challenge.
+<a href="https://www.youtube.com/watch?v=cFdJZSnTlMg"><p align="center"><img src="http://puu.sh/sp0rb/9e90d27bad.jpg" alt="settings"></p></a>
 
 * Walking now allows you to set "Minimum different pokestops to be visited before visiting the same one again" so that it prevents walking only across limited amount of pokestops
 (as some reported it walking only between 2 pokestops and ignoring the rest), while it still sorts the pokestops by shortest distance.
