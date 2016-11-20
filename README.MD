@@ -8,21 +8,21 @@
 <br><br> <h1><b>The Multi-Platform Pokemon-Go farming bot on a whole new human level is here! </b></h1><br><h2><b>"Now</b> you officially have no excuse for exercising anymore, you are free to sit back on your ass and eat your pizza while drinking your fav beer ;)"</h2>
  
  *PS: If Issues has been closed on github, please visit the forums for that:
+ <br>
  [→Click here Check out the official Hackemon Forums](http://www.hackemon.io)
  <br>
  [→Click here to join disucssion & News on Discord](https://discord.gg/mMhuG6q)
  <br><br>
  <h1>Its back! up and running on the latest API, time to continue the genius plans we had!</h1>
-<br><br><font size=2px><b>Click on the following image for a Preview of Hackemon 2.0 new Super intuitive & Responsive forged design (and  revamped code base)</b><font>
-<a href="https://www.youtube.com/watch?v=qVC-3PbIBhw" target="_blank"><img src="http://puu.sh/rnHMF/07856b5b47.jpg"
-alt="Runs on All Operating Systems including Windows,Linux, Mac and OpenBSD"  border="10" /></a>
-
- <br><br> 
-
-<p align="center"><img src="http://puu.sh/rls14/c7c1e04417.png" alt="settings"></p>
-<p align="center"><img src="http://puu.sh/rlrUF/3530f84c3b.png" alt="settings"></p>
+<br><br>
 <p align="center"><img src="http://puu.sh/rlrWd/4fa6c91d80.jpg" alt="settings"></p>
+<p align="center"><img src="http://puu.sh/rnHMF/07856b5b47.jpg" alt="settings"></p>
 <p align="center"><img src="http://puu.sh/rlrXJ/1a0ed0e7d5.png" alt="settings"></p>
+<p align="center"><img src="http://puu.sh/rls14/c7c1e04417.png" alt="settings"></p>
+<p align="center"><img src="http://puu.sh/sjHUj/27bdc9f99e.png" alt="settings"></p>
+<p align="center"><img src="http://puu.sh/sjHKp/8f468364d4.png" alt="settings"></p>
+<p align="center"><img src="http://puu.sh/sjHLK/abe0e54813.png" alt="settings"></p>
+
 
 <h2><b>Hackémon</b> is designed with a primary intent for it to be very rich in logic, highly customizable, brightly intuitive and of course the most core principle, Undetectability (Ban-Safe) through utilizing human road/path finding under customizable settings with presets.</h2>
 <br>
@@ -57,6 +57,9 @@ alt="Runs on All Operating Systems including Windows,Linux, Mac and OpenBSD"  bo
 </b>
 <br>
 
+<h1>Hackemon 2.051[Hot-Fix]</h1> 
+* Fixed slow walking issue in the last update that appeared as a result of full incubation/hatching support.
+
 <h1>Hackemon 2.05</h1> 
 * Added Smart Interactive Items Inventory (you can recycle and use x amount of items at once, it knows what you can recycle and use, and only show use buttons when you are able to use the item)
 * Added Interactive Eggs Inventory (you can view all current eggs and their progress of incubation , as you can also incubate non-incubated eggs)
@@ -64,16 +67,10 @@ alt="Runs on All Operating Systems including Windows,Linux, Mac and OpenBSD"  bo
 * Added pokemon renaming
 * Added pokemon buddy set
 * Fixed a bug where it uses greatballs forcely
-* Fixed Egg incubation & Hatching, now should incubate with infinite incubator and automatically hatch the pokemon.
+* Fixed Egg incubation & Hatching, now should incubate with infinite incubator and automatically hatch the pokemon (hatches the eggs on pokestops).
 * Catch log is now sorted by timestamp (latest catch shows on top).
 * Pokemons sprites in pokemon tab are replaced by cool animated sprites =)
-
  
-<h1>Hackemon 2.04</h1> 
- * API changes in which Hackemon runs nicely on the latest API.
- * Tutorial auto completion feature.
- * Pokemon Inventory now shows nicknamed/renamed pokemon.
-
 
 <br>
 <b><h1>→ Installation:</h1></b>
