@@ -57,8 +57,21 @@
 </b>
 <br>
 
-<h1>Hackemon 2.051[Hot-Fix]</h1> 
-* Fixed slow walking issue in the last update that appeared as a result of full incubation/hatching support.
+<h1>Hackemon 2.06</h1> 
+* Added a unique challenge/captcha handler for users to solve, long time spent on it and required some hacks to make it work properly. 
+Once you are challenged, Hackemon will display a window pop up showing the captcha for you to solve (using its own browser/renderer), once you've completed the 
+challenge and press 'Verify' Hackemon will automatically intercept the network traffic and grab the required token for validation and notify the niantic server, incase the response
+back from niantic was success , bot will continue its task normally, otherwise it'll close current popup and display another challenge.
+
+* Walking now allows you to set "Minimum different pokestops to be visited before visiting the same one again" so that it prevents walking only across limited amount of pokestops
+(as some reported it walking only between 2 pokestops and ignoring the rest), while it still sorts the pokestops by shortest distance.
+
+* Added an option in the Pokemon inventory tab to disable "Auto refresh" and manual refresh the inventory as requested.
+
+* Updated ball picking logic so that it prioritize the fittest ball based on the pokemon's CP, however if it ran out of pokemon balls it will still use other balls most fitting the current 
+situation.
+
+* Fixed an annoying bug where it still attempt to encounter some pokemons when it doesnt have any pokeballs left which made it enter an infinite attempt loop in some cases.
 
 <h1>Hackemon 2.05</h1> 
 * Added Smart Interactive Items Inventory (you can recycle and use x amount of items at once, it knows what you can recycle and use, and only show use buttons when you are able to use the item)
