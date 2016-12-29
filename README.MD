@@ -26,6 +26,37 @@
 
 <h2><b>Hackémon</b> is designed with a primary intent for it to be very rich in logic, highly customizable, brightly intuitive and of course the most core principle, Undetectability (Ban-Safe) through utilizing human road/path finding under customizable settings with presets.</h2>
 <br>
+
+
+<h1>Hackemon 2.07</h1> 
+* Hackemon is back and running on the latest API, however unfortunately the main POGO reverse engineers from "Bossland GmbH" company that were taking care of cracking the API 
+decided to no longer release it for free, and now they run a paid hashing service for map scanners & bots and they divided it into packages based on an RPM (Requests per Minute)
+model, and users now will have to purchase  one of the keys they offer and each lasts for one month, for Hackemon you just need to buy the basic 150 RPM key for now and you
+will be able to run full speed 2-3 separate instances max per each 150 RPM key, you will be able to insert the key(s) in Hackemon's 'Accounts Dialogs'.
+
+A bit later when hackemon will support multiple instances within same GUI. you might be able to run more instances for 150 RPM key but requests will be throttled and the bots will get slower.
+Bare in mind i have 0 profit off of this, as you will be purchasing the key from an external service.
+
+* Finally fixed "Clear Last Saved Location" bug and renamed to "Rebase"
+<h1>Hackemon 2.06</h1> 
+* Added a unique challenge/captcha handler for users to solve, long time spent on it and required some hacks to make it work properly. 
+Once you are challenged, Hackemon will display a window pop up showing the captcha for you to solve (using its own browser/renderer), once you've completed the 
+challenge and press 'Verify' Hackemon will automatically intercept the network traffic and grab the required token for validation and notify the niantic server, incase the response
+back from niantic was success , bot will continue its task normally, otherwise it'll close current popup and display another challenge.
+*click image to see it in action*
+<a href="https://www.youtube.com/watch?v=cFdJZSnTlMg"><p align="center"><img src="http://puu.sh/sp0rb/9e90d27bad.jpg" alt="settings"></p></a>
+
+* Walking now allows you to set "Minimum different pokestops to be visited before visiting the same one again" so that it prevents walking only across limited amount of pokestops
+(as some reported it walking only between 2 pokestops and ignoring the rest), while it still sorts the pokestops by shortest distance.
+
+* Added an option in the Pokemon inventory tab to disable "Auto refresh" and manual refresh the inventory as requested.
+
+* Updated ball picking logic so that it prioritize the fittest ball based on the pokemon's CP, however if it ran out of pokemon balls it will still use other balls most fitting the current 
+situation.
+
+* Fixed a bug where it still attempt to encounter some pokemons when it doesnt have any pokeballs left which made it enter an infinite attempt loop in some cases.
+
+<br>
 <b><h1>→ List of Current Features:</h1></b>
 <b>
 <ul>
@@ -57,36 +88,6 @@
 </ul>
 </b>
 <br>
-
-<h1>Hackemon 2.07</h1> 
-* Hackemon is back and running on the latest API, however unfortunately the main POGO reverse engineers from "Bossland GmbH" company that were taking care of cracking the API 
-decided to no longer release it for free, and now they run a paid hashing service for map scanners & bots and they divided it into packages based on an RPM (Requests per Minute)
-model, and users now will have to purchase  one of the keys they offer and each lasts for one month, for Hackemon you just need to buy the basic 150 RPM key for now and you
-will be able to run full speed 2-3 separate instances max per each 150 RPM key, you will be able to insert the key(s) in Hackemon's 'Accounts Dialogs'.
-
-A bit later when hackemon will support multiple instances within same GUI. you might be able to run more instances for 150 RPM key but requests will be throttled and the bots will get slower.
-Bare in mind i have 0 profit off of this, as you will be purchasing the key from an external service.
-
-* Finally fixed "Clear Last Saved Location" bug and renamed to "Rebase"
-<h1>Hackemon 2.06</h1> 
-* Added a unique challenge/captcha handler for users to solve, long time spent on it and required some hacks to make it work properly. 
-Once you are challenged, Hackemon will display a window pop up showing the captcha for you to solve (using its own browser/renderer), once you've completed the 
-challenge and press 'Verify' Hackemon will automatically intercept the network traffic and grab the required token for validation and notify the niantic server, incase the response
-back from niantic was success , bot will continue its task normally, otherwise it'll close current popup and display another challenge.
-*click image to see it in action*
-<a href="https://www.youtube.com/watch?v=cFdJZSnTlMg"><p align="center"><img src="http://puu.sh/sp0rb/9e90d27bad.jpg" alt="settings"></p></a>
-
-* Walking now allows you to set "Minimum different pokestops to be visited before visiting the same one again" so that it prevents walking only across limited amount of pokestops
-(as some reported it walking only between 2 pokestops and ignoring the rest), while it still sorts the pokestops by shortest distance.
-
-* Added an option in the Pokemon inventory tab to disable "Auto refresh" and manual refresh the inventory as requested.
-
-* Updated ball picking logic so that it prioritize the fittest ball based on the pokemon's CP, however if it ran out of pokemon balls it will still use other balls most fitting the current 
-situation.
-
-* Fixed a bug where it still attempt to encounter some pokemons when it doesnt have any pokeballs left which made it enter an infinite attempt loop in some cases.
-
-
 <br>
 <b><h1>→ Installation:</h1></b>
 <p>
