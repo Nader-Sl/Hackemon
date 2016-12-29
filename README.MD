@@ -48,6 +48,7 @@
                 <li>Auto Items Recycling </li>         
                 <li> fully interactive pokemon inventory in which you can manually transfer, evolve and power-up each</li>
                 <li> Auto collects Rewards on level up.</li>
+		<li> Captcha challenge display in custom browser with success listener.
                 <li> Proxy Support (SOCKS & HTTP) [Under re-planning as of Hackemon 2.0]</li>
                 <li> Lots of Humanization and other settings to set under the setting tab</li>
                 <li> Ban-safe</li>
@@ -57,6 +58,16 @@
 </b>
 <br>
 
+<h1>Hackemon 2.07</h1> 
+* Hackemon is back and running on the latest API, however unfortunately the main POGO reverse engineers from "Bossland GmbH" company that were taking care of cracking the API 
+decided to no longer release it for free, and now they run a paid hashing service for map scanners & bots and they divided it into packages based on an RPM (Requests per Minute)
+model, and users now will have to purchase  one of the keys they offer and each lasts for one month, for Hackemon you just need to buy the basic 150 RPM key for now and you
+will be able to run full speed 2-3 separate instances max per each 150 RPM key, you will be able to insert the key(s) in Hackemon's 'Accounts Dialogs'.
+
+A bit later when hackemon will support multiple instances within same GUI. you might be able to run more instances for 150 RPM key but requests will be throttled and the bots will get slower.
+Bare in mind i have 0 profit off of this, as you will be purchasing the key from an external service.
+
+* Finally fixed "Clear Last Saved Location" bug and renamed to "Rebase"
 <h1>Hackemon 2.06</h1> 
 * Added a unique challenge/captcha handler for users to solve, long time spent on it and required some hacks to make it work properly. 
 Once you are challenged, Hackemon will display a window pop up showing the captcha for you to solve (using its own browser/renderer), once you've completed the 
@@ -75,17 +86,6 @@ situation.
 
 * Fixed a bug where it still attempt to encounter some pokemons when it doesnt have any pokeballs left which made it enter an infinite attempt loop in some cases.
 
-<h1>Hackemon 2.05</h1> 
-* Added Smart Interactive Items Inventory (you can recycle and use x amount of items at once, it knows what you can recycle and use, and only show use buttons when you are able to use the item)
-* Added Interactive Eggs Inventory (you can view all current eggs and their progress of incubation , as you can also incubate non-incubated eggs)
-* Added Captcha handling
-* Added pokemon renaming
-* Added pokemon buddy set
-* Fixed a bug where it uses greatballs forcely
-* Fixed Egg incubation & Hatching, now should incubate with infinite incubator and automatically hatch the pokemon (hatches the eggs on pokestops).
-* Catch log is now sorted by timestamp (latest catch shows on top).
-* Pokemons sprites in pokemon tab are replaced by cool animated sprites =)
- 
 
 <br>
 <b><h1>→ Installation:</h1></b>
