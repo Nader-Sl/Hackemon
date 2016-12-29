@@ -31,12 +31,12 @@
 <h1>Hackemon 2.07</h1> 
 * Hackemon is back and running on the latest API, however unfortunately the main POGO reverse engineers from "Bossland GmbH" company that were taking care of cracking the API 
 decided to no longer release it for free, and now they run a paid hashing service for map scanners & bots and they divided it into packages based on an RPM (Requests per Minute)
-model, and users now will have to purchase  one of the keys they offer and each lasts for one month, for Hackemon you just need to buy the basic 150 RPM key for now and you
-will be able to run full speed 2-3 separate instances max per each 150 RPM key, you will be able to insert the key(s) in Hackemon's 'Accounts Dialogs'.
+model, and users now will have to purchase  one of the keys they offer and each lasts for one month, for Hackemon you just need to buy the basic 150 RPM key for now and you will be able to run full speed 2-3 separate instances max per each 150 RPM key, if you want to run more instances buy another key for other 2-3 accounts or a bigger package,  you will be able to insert the key(s) in Hackemon's 'Accounts Dialogs'.
 <p align="center"><img src="http://puu.sh/t4AJx/a2fd9b2d60.png" alt="settings"></p>
 
-A bit later when hackemon will support multiple instances within same GUI. you might be able to run more instances for 150 RPM key but requests will be throttled and the bots will get slower.
 Bare in mind i have 0 profit off of this, as you will be purchasing the key from an external service.
+
+*To purchase an RPM key please refere to* : https://talk.pogodev.org/d/51-api-hashing-service-by-pokefarmer
 
 * Finally fixed "Clear Last Saved Location" bug and renamed to "Rebase"
 <h1>Hackemon 2.06</h1> 
